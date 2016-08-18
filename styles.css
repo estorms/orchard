@@ -1,0 +1,26 @@
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+  border-radius: 25px;
+}
+
+h1, h2{
+  position: relative;
+  top: 18px;
+  left: 10px;
+  color: firebrick;
+}
+
+/*h2 {
+color: firebrick;
+}*/
+
+body {
+    background-color: rgba(0, 255, 0, 0.4);
+}
+
+#aMan {
+    margin-left: 5px;
+}
